@@ -1,2 +1,3 @@
 # Odin-Landing-Page
-Odin Project task
+
+A simple project created following along [The Odin Project](https://www.theodinproject.com/)
